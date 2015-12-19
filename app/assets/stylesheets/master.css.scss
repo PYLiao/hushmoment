@@ -1,0 +1,20 @@
+.navbar {
+  border-radius:0;
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 400;
+}
+
+.booyah-box {
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    box-sizing: border-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding: 0;
+    background-color: #fff;
+    border: 1px solid #edeeee;
+    border-radius: 3px;
+}
